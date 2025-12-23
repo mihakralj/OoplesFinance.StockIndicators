@@ -362,9 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-#Ignore vscode AI rules
-.github\instructions\codacy.instructions.md
-
 # Fork-specific files (not to be merged upstream)
 README.md
 qodana.yaml
+.github/instructions/codacy.instructions.md
